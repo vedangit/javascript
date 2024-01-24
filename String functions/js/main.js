@@ -1,5 +1,5 @@
 //Strings
-const myVariable = "Mathematics";
+const myVariable = "Mathematics"
 
 //Length
 console.log(myVariable.length);
