@@ -7,7 +7,7 @@ console.log(Number(varString));
 //chaining
 console.log(Number.parseFloat("43.7jfh7.8").toFixed(2).toString());
 
-//Math.method
+//**Math.method**
 //Math.trunc removes all decimal values
 //.round rounds to nearest int
 // .ciel will always round the value up
